@@ -1,0 +1,1 @@
+<strong><h1>Welcome to the OficialPage of DIATECH</h1></strong>
