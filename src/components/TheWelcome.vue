@@ -7,7 +7,6 @@ import CommunityIcon from "./icons/IconSilla.vue";
 import SupportIcon from "./icons/IconVisitanos.vue";
 
 </script>
-
 <template>
   <WelcomeItem>
     <template #icon>
@@ -58,6 +57,6 @@ import SupportIcon from "./icons/IconVisitanos.vue";
       >Diatech.com</a
     >.
   </WelcomeItem>
-  <template>
+  
 </template>
 
